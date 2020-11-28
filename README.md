@@ -58,7 +58,7 @@ Buat user autentifikasi proxy dengan username : userta_t02 dan password : inipas
 ##### Penyelesaian
 Install apache-utils lalu buat file password baru di squid3 dengan command ```htpasswd -c /etc/squid3/passwd userta_t02```
 
-##### 7b
+##### 7a
 
 ![No 7a](https://github.com/bagasimmanuel/Jarkom_Modul3_Lapres_T02/blob/main/img/7.PNG)
 
