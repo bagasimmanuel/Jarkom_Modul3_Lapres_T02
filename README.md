@@ -45,25 +45,27 @@ Client di subnet 1 mendapatkan peminjaman alamat IP selama 5 menit, sedangkan cl
 ##### Penyelesaian
 Edit __/etc/dhcp/dhcpd.conf__ seperti dibawah
 
+##### 6a
+
 ![No 6a](https://github.com/bagasimmanuel/Jarkom_Modul3_Lapres_T02/blob/main/img/3.PNG)
 
-##### 6a
+##### 6b
 
 ![No 6b](https://github.com/bagasimmanuel/Jarkom_Modul3_Lapres_T02/blob/main/img/4.PNG)
 
-##### 6b
 #### No. 7
 Buat user autentifikasi proxy dengan username : userta_t02 dan password : inipassw0rdta_t02
 ##### Penyelesaian
 Install apache-utils lalu buat file password baru di squid3 dengan command ```htpasswd -c /etc/squid3/passwd userta_t02```
 
+##### 7b
+
 ![No 7a](https://github.com/bagasimmanuel/Jarkom_Modul3_Lapres_T02/blob/main/img/7.PNG)
 
-##### 7a
+##### 7b
 
 ![No 7b](https://github.com/bagasimmanuel/Jarkom_Modul3_Lapres_T02/blob/main/img/7B.PNG)
 
-##### 7b
 
 #### No. 8
 Buat agar proxy hanya dapat digunakan (diakses) pada pukul 13:00 - 18:00 hari Selasa - Rabu
