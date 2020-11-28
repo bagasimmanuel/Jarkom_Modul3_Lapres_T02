@@ -10,18 +10,19 @@ Buat topologi jaringan seperti gambar dibawah ini
 ##### Penyelesaian
 Buat topologi dengan setting seperti di bawah di server
 
-![No 1](./img/1.png/)
+![No 1](https://github.com/bagasimmanuel/Jarkom_Modul3_Lapres_T02/blob/main/img/1.PNG)
 
 #### No. 2
 Buat DHCP Relay server di Suarabaya
 ##### Penyelesaian
 Install __isc-dhcp-server__ di uml Surabaya, lalu setting seperti di bawah
 
-![Step 2](./img/2.png/)
+![No 2](https://github.com/bagasimmanuel/Jarkom_Modul3_Lapres_T02/blob/main/img/2.PNG)
 
 #### No. 3
 Client pada subnet 1 mendapatkan range IP dari 192.168.0.10 sampai 192.168.0.100 dan 192.168.0.110 sampai 192.168.0.200
 ##### Penyelesaian
+![No 2](https://github.com/bagasimmanuel/Jarkom_Modul3_Lapres_T02/blob/main/img/2.PNG)
 
 #### No. 4
 Client pada subnet 3 mendapatkan range IP dari 192.168.1.50 sampai 192.168.1.70.
