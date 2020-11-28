@@ -8,6 +8,8 @@
 #### No. 1
 Buat topologi jaringan seperti gambar dibawah ini
 ##### Penyelesaian
+Buat topologi dengan setting seperti di bawah di server
+![Step 1](./images/1.png/)
 
 #### No. 2
 Buat DHCP Relay server di Suarabaya
