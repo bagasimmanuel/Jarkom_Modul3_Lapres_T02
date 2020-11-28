@@ -1,2 +1,6 @@
-# Jarkom_Modul3_Lapres_T02
-Lapres Shift Modul 3 Jaringan Komputer
+
+# Lapres Modul 3 Jarkom T02 2020
+
+### Oleh:
+- Muhammad Sulthon Nashir (0511174000017)
+- Bagas Immanuel Lodianto (05311840000026)
